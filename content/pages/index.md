@@ -13,8 +13,8 @@ sections:
     content: >-
       Planned activities include weekly practices, tournaments, and entertaining events. Although anyone can join, several will be selected to represent Lehigh to compete with other universities, once we are approved by club sports & NCTTA. Join if you can’t wait to play ping pong ~
     actions:
-      - label: Contact Us
-        url: /contact
+      - label: Join Us
+        url: /join
         style: button
   - section_id: recent-posts
     type: section_posts
