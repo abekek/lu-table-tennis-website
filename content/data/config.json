@@ -43,7 +43,7 @@
             },
             {
                 "label": "Email",
-                "url": "mailto:inluttc@lehigh.edu",
+                "url": "https://mailto:inluttc@lehigh.edu",
                 "style": "icon",
                 "icon_class": "email",
                 "new_window": true
